@@ -13,5 +13,11 @@
   "author": "t9m",
   "license": "MIT",
   "readmeFilename": "README.md",
-  "gitHead": "8a34ebca2df9416fd92928dce135dd3f2829f994"
+  "gitHead": "8a34ebca2df9416fd92928dce135dd3f2829f994",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "chai": "~1.6.0",
+    "sinon": "~1.6.0",
+    "sinon-chai": "~2.4.0"
+  }
 }
