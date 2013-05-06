@@ -1,0 +1,17 @@
+{
+  "name": "grunt-mocha-sandbox",
+  "version": "0.0.0",
+  "description": "grunt-mocha-sandbox ===================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/t9m/grunt-mocha-sandbox.git"
+  },
+  "author": "t9m",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "8a34ebca2df9416fd92928dce135dd3f2829f994"
+}
